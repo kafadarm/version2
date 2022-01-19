@@ -5,3 +5,4 @@ konèna verzija
 1
 
 some changes
+additional changes
